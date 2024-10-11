@@ -1,1 +1,1 @@
-import whatsapp
+import whatsapp.cpython-311.so
